@@ -1,0 +1,24 @@
+*****************************************
+     Recibo de Datos almacenandos      
+                                       
+    Identificador  234        
+                                       
+    Nombre:  mary feliz       
+                                       
+    tipo de cita: normal 
+                                       
+    trarado de la cita: Atencion al cliente 
+                                       
+    fecha de la cita: 12/3/2022 
+                                       
+    Total sin Itebis: 650 
+                                       
+    Itebis:      117.0 
+                                       
+    Total con Itebis: 767.0 
+                                      
+*******************************************
+
+
+
+
