@@ -308,7 +308,7 @@ def general():
             l20 =("**************************************************************************************")
             
 
-            conexion.login('angelstevengonzalezf@gmail.com','angelsteven2806')
+            conexion.login('angelstevengonzalezf@gmail.com','tu contrasena')
 
             mensajexd = f"{l1}\n{l2}\n{l3}\n{l4}\n{l5}\n{l6}\n{l7}\n{l8}\n{l9}\n{l10}\n{l11}\n{l12}\n{l13}\n{l14}\n{l15}\n{l16}\n{l17}\n{l18}\n{l19}\n{l20}\n"
 
